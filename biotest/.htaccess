@@ -1,0 +1,2 @@
+AuthUserFile "/home/kadyszew/.htpasswds/public_html/biotest/passwd"
+AuthName "biotest"
